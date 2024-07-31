@@ -1,4 +1,4 @@
-# assignment-scroll FUnctionalty
+# assignment-scroll Functionalty
 
 Setup
 -Install Flutter SDK: Download from flutter.dev.
